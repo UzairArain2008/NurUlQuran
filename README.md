@@ -15,7 +15,21 @@ The template can be used as a starting point and customized to match individual 
 ## Tech Stack
 - HTML
 - CSS
-- JavaScript (if applicable)
+- JavaScript
 
 ## Usage
-1. Clone the repository:
+1. Clone the repository: https://github.com/UzairArain2008/Website-tepm-1.git
+2. Open `index.html` in a browser.
+3. Modify content, styles, and assets as needed.
+
+## Customization
+- Update text content to match your profile
+- Replace images or icons
+- Adjust colors and fonts in the CSS files
+
+## Project Status
+This project is maintained as a **template/demo**.  
+No active feature development is planned, but improvements may be added occasionally.
+
+## License
+This project is open-source and available under the MIT License.
